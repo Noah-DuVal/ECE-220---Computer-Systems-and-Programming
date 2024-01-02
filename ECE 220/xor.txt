@@ -1,0 +1,10 @@
+NOT R1, R1	
+AND R1, R1, R2
+NOT R1, R1	
+
+NOT R0, R2	
+AND R0, R0, R1
+NOT R0, R0 
+
+AND R0, R0, R1	
+NOT R0, R0	
